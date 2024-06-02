@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Garima
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data analytics
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me by mail
 - 😄 Pronouns: She
